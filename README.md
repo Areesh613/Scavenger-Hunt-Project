@@ -26,13 +26,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 <div>
-    <a href="https://www.loom.com/share/ff8849623b0b4b2e813fffa163365915">
+    <a href="https://s4.ezgif.com/tmp/ezgif-47926def33193f.gif">
     </a>
-    <a href="https://www.loom.com/share/ff8849623b0b4b2e813fffa163365915">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff8849623b0b4b2e813fffa163365915-e1409c6910bf606d-full-play.gif">
+    <a href="https://s4.ezgif.com/tmp/ezgif-47926def33193f.gif">
+      <img style="max-width:300px;" src="https://s4.ezgif.com/tmp/ezgif-47926def33193f.gif">
     </a>
   </div>
 
